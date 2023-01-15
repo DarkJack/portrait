@@ -1,0 +1,14 @@
+body{
+    background: black;
+}
+
+
+div p{
+    background-image: url(fumh512een3r40idntjh1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-clip:text;
+    color:transparent;
+    line-height: 12px;
+}
